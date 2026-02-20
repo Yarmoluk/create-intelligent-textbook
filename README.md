@@ -2,9 +2,13 @@
 
 Generate complete intelligent textbooks with knowledge graphs, interactive simulations, and quizzes from any topic — powered by Claude.
 
-[![npm](https://img.shields.io/badge/npm-create--intelligent--textbook-red)](https://www.npmjs.com/package/create-intelligent-textbook)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude](https://img.shields.io/badge/Powered%20by-Claude-blue)](https://claude.ai)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![License](https://img.shields.io/badge/License-grey?style=for-the-badge)
+![MIT](https://img.shields.io/badge/MIT-lightgrey?style=for-the-badge)
 
 ## What It Does
 
